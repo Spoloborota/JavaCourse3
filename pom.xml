@@ -7,5 +7,6 @@
   <modules>
   	<module>inheritance</module>
   	<module>polymorphism</module>
+  	<module>interfaces</module>
   </modules>
 </project>
