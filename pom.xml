@@ -8,5 +8,6 @@
   	<module>inheritance</module>
   	<module>polymorphism</module>
   	<module>interfaces</module>
+  	<module>strategy</module>
   </modules>
 </project>
