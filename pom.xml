@@ -9,5 +9,6 @@
   	<module>polymorphism</module>
   	<module>interfaces</module>
   	<module>strategy</module>
+  	<module>icapsulation</module>
   </modules>
 </project>
