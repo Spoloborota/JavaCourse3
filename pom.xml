@@ -11,5 +11,6 @@
   	<module>strategy</module>
   	<module>icapsulation</module>
   	<module>collections</module>
+  	<module>equality_and_wrappers</module>
   </modules>
 </project>
