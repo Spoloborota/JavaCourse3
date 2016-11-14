@@ -12,5 +12,6 @@
   	<module>icapsulation</module>
   	<module>collections</module>
   	<module>equality_and_wrappers</module>
+  	<module>exceptions</module>
   </modules>
 </project>
