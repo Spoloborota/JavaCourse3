@@ -1,0 +1,2 @@
+Main-Class: com.spoloborota.teaching.lessons.lesson13.TestGson
+Class-Path: .\sample_source\gson-2.5.jar

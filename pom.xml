@@ -13,5 +13,6 @@
   	<module>collections</module>
   	<module>equality_and_wrappers</module>
   	<module>exceptions</module>
+  	<module>compilation</module>
   </modules>
 </project>
