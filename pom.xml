@@ -14,5 +14,6 @@
   	<module>equality_and_wrappers</module>
   	<module>exceptions</module>
   	<module>compilation</module>
+  	<module>io</module>
   </modules>
 </project>
