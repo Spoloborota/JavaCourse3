@@ -16,5 +16,7 @@
   	<module>compilation</module>
   	<module>io</module>
   	<module>inner-class</module>
+  	<module>web1</module>
+  	<module>web2</module>
   </modules>
 </project>
