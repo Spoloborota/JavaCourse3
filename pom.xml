@@ -20,5 +20,6 @@
   	<module>web1</module>
   	<module>web2</module>
     <module>web4</module>
+    <module>db1</module>
   </modules>
 </project>
