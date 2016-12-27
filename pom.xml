@@ -23,5 +23,7 @@
     <module>db1</module>
     <module>db2</module>
     <module>db3</module>
+    <module>hibernate</module>
+    <module>AuthDemo</module>
   </modules>
 </project>
