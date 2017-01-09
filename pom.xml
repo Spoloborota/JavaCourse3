@@ -25,5 +25,6 @@
     <module>db3</module>
     <module>hibernate</module>
     <module>AuthDemo</module>
+    <module>threads</module>
   </modules>
 </project>
